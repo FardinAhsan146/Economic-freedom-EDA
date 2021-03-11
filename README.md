@@ -3,7 +3,7 @@
 Some EDA on economic freedom with respect to PPP.
 Data from https://www.heritage.org/index/explore
 
-Note: Didn't Include Mexico in NA category because its only in NA geographically, culturally far from it. 
+Note: Didn't Include Mexico (and the Carribean Islands) in NA category because its only in NA geographically, culturally far from it. 
 
 Also note: Correlation != Causation, so take correlations with a grain of salt.
 
